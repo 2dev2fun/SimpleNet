@@ -1,0 +1,2 @@
+# SimpleNet
+Only for fun!
